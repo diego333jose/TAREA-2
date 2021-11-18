@@ -66,11 +66,11 @@ Ejercicios
 
 Conclusiones:
 
--La ley de Ohm es una herramienta sumamente util al momento de querer identificar la corriente propia de un circuito empleando el voltaje y resistencia presente en el mismo
+- La ley de Ohm es una herramienta sumamente util al momento de querer identificar la corriente propia de un circuito empleando el voltaje y resistencia presente en el mismo
 
--La localizacion de fallas es un proceso el cual depende mucho del conocimiento y razonamiento logico por parte del usuario que la realice, por lo que es bastante util y relativamente sencillo de realizar
+- La localizacion de fallas es un proceso el cual depende mucho del conocimiento y razonamiento logico por parte del usuario que la realice, por lo que es bastante util y relativamente sencillo de realizar
 
--La potencia es la razon de cambio a la cual se utiliza la energia
+- La potencia es la razon de cambio a la cual se utiliza la energia
 
 Recomendaciones:
 
