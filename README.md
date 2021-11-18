@@ -34,5 +34,34 @@ Especificos:
 
 -Definir lo que es potencia y energia
 
+*CAPITULO 3: LEY DE OHM*
+
+![]
+
+![]
+
+![]
+
+![]
+
+![]
+
+![]
+
+![]
+
+![]
+
+![]
+
+![]
+
+![]
+
+![]
+
+![]
+
+
 
 
